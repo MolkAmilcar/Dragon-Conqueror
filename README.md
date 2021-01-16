@@ -1,5 +1,5 @@
 <p align="center"><img src="./src/assets/img/app_img.PNG" width="900" height="400"></p>
-# Dragon-Conqueror
+## Dragon-Conqueror
 
 Simple Vue js game
 Demo link: https://dragon-conqueror.netlify.app/
