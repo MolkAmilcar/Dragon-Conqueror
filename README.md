@@ -1,8 +1,8 @@
+<p align="center"><img src="./src/assets/img/app_img.PNG" width="900" height="400"></p>
 # Dragon-Conqueror
 
 Simple Vue js game
-<p align="center"><img src="./src/assets/img/app_img.PNG" width="900" height="400"></p>
-Demo link: https://wendell1101-dragon-conqueror.netlify.app/
+Demo link: https://dragon-conqueror.netlify.app/
 
 ## Project setup
 ```
