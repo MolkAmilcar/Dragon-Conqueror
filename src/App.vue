@@ -117,12 +117,12 @@
     <div class="overlap" v-if="winner">
       <div class="winner">
         <div class="text-center">
-          <h3>Game Over!</h3>
-          <h4 v-if="winner === 'enemy'">You Lose!</h4>
-          <h4 v-else-if="winner === 'player'">You Win!</h4>
-          <h4 v-else-if="winner === 'draw'">It's a Draw!</h4>
+          <h3>Fin del juego</h3>
+          <h4 v-if="winner === 'enemy'">Perdiste!</h4>
+          <h4 v-else-if="winner === 'player'">Ganaste!</h4>
+          <h4 v-else-if="winner === 'draw'">Es un empate!</h4>
           <button @click="startFight" class="btn start-btn mt-4">
-            Battle Again
+            Jugar de nuevo
           </button>
         </div>
       </div>
